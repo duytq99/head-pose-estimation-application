@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="logoBK">
+    <file>Logo BK.png</file>
+  </qresource>
+  <qresource prefix="logoBKInnovation">
+    <file>BK-Innovation-official Logo.png</file>
+  </qresource>
+</RCC>
