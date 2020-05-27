@@ -17,8 +17,8 @@
    <widget class="QLabel" name="logoBKInnovation">
     <property name="geometry">
      <rect>
-      <x>800</x>
-      <y>700</y>
+      <x>1530</x>
+      <y>830</y>
       <width>311</width>
       <height>221</height>
      </rect>
@@ -37,7 +37,7 @@
     <property name="geometry">
      <rect>
       <x>0</x>
-      <y>0</y>
+      <y>50</y>
       <width>1921</width>
       <height>171</height>
      </rect>
@@ -136,11 +136,11 @@
      </item>
     </layout>
    </widget>
-   <widget class="QWidget" name="">
+   <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
       <x>10</x>
-      <y>210</y>
+      <y>260</y>
       <width>1901</width>
       <height>491</height>
      </rect>
